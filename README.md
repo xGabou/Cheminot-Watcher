@@ -5,7 +5,12 @@ Lightweight Java listener for running `SeatAlertWatcher` with the required depen
 ## Requirements
 
 - Java (JRE/JDK) installed and available on `PATH`
-- `ChemiNotC.jar` available at:
+
+To download the dependency JAR:
+
+- https://CheminotJWS.etsmtl.ca/ChemiNotC.jar
+
+Place `ChemiNotC.jar` at:
 	- `<PATH_TO_JAR>\\ChemiNotC.jar`
 
 ## Run
